@@ -1,8 +1,7 @@
 name: flutter_timer_util
 description: "A various timer utility package for debounce, throttle, repeat."
 version: 0.0.1
-repository:
-homepage:
+repository: https://github.com/suneogkwon/flutter_timer_util
 
 environment:
   sdk: '>=3.2.2 <4.0.0'
